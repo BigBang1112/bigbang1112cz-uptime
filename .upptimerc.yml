@@ -19,8 +19,6 @@ sites:
     url: https://antislowmo.bigbang1112.cz
   - name: antislowmo.bigbang1112.cz (TMUF Purge 1, Dortmund)
     url: https://dortmund.antislowmo.bigbang1112.cz
-  - name: winget.bigbang1112.cz
-    url: https://winget.bigbang1112.cz
     
 assignees: # Users to assign downtime issues (optional)
   - BigBang1112
