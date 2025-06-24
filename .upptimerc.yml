@@ -9,16 +9,21 @@ sites:
     url: https://v2.bigbang1112.cz
   - name: gbx.bigbang1112.cz (Gbx Web Tools)
     url: https://gbx.bigbang1112.cz
+    slug: gbx-bigbang1112-cz
   - name: wr.bigbang1112.cz (TMWR / World Record Report)
     url: https://wr.bigbang1112.cz
+    slug: wr-bigbang1112-cz
   - name: tmtr.bigbang1112.cz
     url: https://tmtr.bigbang1112.cz
   - name: purge2.bigbang1112.cz (TMUF Purge 2)
     url: https://purge2.bigbang1112.cz
+    slug: purge2-bigbang1112-cz
   - name: antislowmo.bigbang1112.cz (TMUF Purge 1)
     url: https://antislowmo.bigbang1112.cz
-  - name: antislowmo.bigbang1112.cz (TMUF Purge 1, Dortmund)
+    slug: antislowmo-bigbang1112-cz
+  - name: dortmund.antislowmo.bigbang1112.cz (TMUF Purge 1, Dortmund)
     url: https://dortmund.antislowmo.bigbang1112.cz
+    slug: dortmund-antislowmo-bigbang1112-cz
   - name: winget.bigbang1112.cz
     url: https://winget.bigbang1112.cz
     
