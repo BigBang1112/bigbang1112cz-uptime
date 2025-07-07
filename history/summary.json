@@ -4,18 +4,20 @@
     "url": "https://bigbang1112.cz",
     "icon": "https://icons.duckduckgo.com/ip3/bigbang1112.cz.ico",
     "slug": "bigbang1112-cz",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 816,
-    "timeDay": 846,
-    "timeWeek": 904,
-    "timeMonth": 816,
-    "timeYear": 816,
-    "dailyMinutesDown": {}
+    "time": 814,
+    "timeDay": 814,
+    "timeWeek": 889,
+    "timeMonth": 814,
+    "timeYear": 814,
+    "dailyMinutesDown": {
+      "2025-07-07": 0
+    }
   },
   {
     "name": "v2.bigbang1112.cz",
@@ -160,7 +162,7 @@
     "timeMonth": 713,
     "timeYear": 713,
     "dailyMinutesDown": {
-      "2025-07-07": 70,
+      "2025-07-07": 1068,
       "2025-07-06": 1440,
       "2025-07-05": 1440,
       "2025-07-04": 1440,
