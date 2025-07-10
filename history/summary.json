@@ -4,18 +4,19 @@
     "url": "https://bigbang1112.cz",
     "icon": "https://icons.duckduckgo.com/ip3/bigbang1112.cz.ico",
     "slug": "bigbang1112-cz",
-    "status": "up",
-    "uptime": "98.89%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "98.90%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "97.56%",
-    "uptimeMonth": "98.89%",
-    "uptimeYear": "98.89%",
+    "uptimeMonth": "98.90%",
+    "uptimeYear": "98.90%",
     "time": 827,
     "timeDay": 537,
     "timeWeek": 839,
     "timeMonth": 827,
     "timeYear": 827,
     "dailyMinutesDown": {
+      "2025-07-10": 0,
       "2025-07-07": 246
     }
   },
@@ -24,9 +25,9 @@
     "url": "https://v2.bigbang1112.cz",
     "icon": "https://icons.duckduckgo.com/ip3/v2.bigbang1112.cz.ico",
     "slug": "v2-bigbang1112-cz",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -35,16 +36,18 @@
     "timeWeek": 1049,
     "timeMonth": 1003,
     "timeYear": 1003,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-10": 0
+    }
   },
   {
     "name": "gbx.bigbang1112.cz (Gbx Web Tools)",
     "url": "https://gbx.bigbang1112.cz",
     "icon": "https://icons.duckduckgo.com/ip3/gbx.bigbang1112.cz.ico",
     "slug": "gbx-bigbang1112-cz",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "99.76%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.89%",
@@ -54,6 +57,7 @@
     "timeMonth": 962,
     "timeYear": 962,
     "dailyMinutesDown": {
+      "2025-07-10": 0,
       "2025-07-07": 24
     }
   },
@@ -62,9 +66,9 @@
     "url": "https://wr.bigbang1112.cz",
     "icon": "https://icons.duckduckgo.com/ip3/wr.bigbang1112.cz.ico",
     "slug": "wr-bigbang1112-cz",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -73,16 +77,18 @@
     "timeWeek": 926,
     "timeMonth": 918,
     "timeYear": 918,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-10": 0
+    }
   },
   {
     "name": "tmtr.bigbang1112.cz",
     "url": "https://tmtr.bigbang1112.cz",
     "icon": "https://icons.duckduckgo.com/ip3/tmtr.bigbang1112.cz.ico",
     "slug": "tmtr-bigbang1112-cz",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -91,16 +97,18 @@
     "timeWeek": 981,
     "timeMonth": 956,
     "timeYear": 956,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-10": 0
+    }
   },
   {
     "name": "purge2.bigbang1112.cz (TMUF Purge 2)",
     "url": "https://purge2.bigbang1112.cz",
     "icon": "https://icons.duckduckgo.com/ip3/purge2.bigbang1112.cz.ico",
     "slug": "purge2-bigbang1112-cz",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -109,16 +117,18 @@
     "timeWeek": 1309,
     "timeMonth": 1332,
     "timeYear": 1332,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-10": 0
+    }
   },
   {
     "name": "antislowmo.bigbang1112.cz (TMUF Purge 1)",
     "url": "https://antislowmo.bigbang1112.cz",
     "icon": "https://icons.duckduckgo.com/ip3/antislowmo.bigbang1112.cz.ico",
     "slug": "antislowmo-bigbang1112-cz",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -127,16 +137,18 @@
     "timeWeek": 1614,
     "timeMonth": 1471,
     "timeYear": 1471,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-10": 0
+    }
   },
   {
     "name": "dortmund.antislowmo.bigbang1112.cz (TMUF Purge 1, Dortmund)",
     "url": "https://dortmund.antislowmo.bigbang1112.cz",
     "icon": "https://icons.duckduckgo.com/ip3/dortmund.antislowmo.bigbang1112.cz.ico",
     "slug": "dortmund-antislowmo-bigbang1112-cz",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -145,7 +157,9 @@
     "timeWeek": 1384,
     "timeMonth": 1319,
     "timeYear": 1319,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-10": 0
+    }
   },
   {
     "name": "winget.bigbang1112.cz",
@@ -164,7 +178,7 @@
     "timeMonth": 707,
     "timeYear": 707,
     "dailyMinutesDown": {
-      "2025-07-10": 67,
+      "2025-07-10": 353,
       "2025-07-09": 1440,
       "2025-07-08": 1440,
       "2025-07-07": 1440,
