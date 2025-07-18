@@ -86,9 +86,9 @@
     "url": "https://tmtr.bigbang1112.cz",
     "icon": "https://icons.duckduckgo.com/ip3/tmtr.bigbang1112.cz.ico",
     "slug": "tmtr-bigbang1112-cz",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -97,7 +97,9 @@
     "timeWeek": 1003,
     "timeMonth": 991,
     "timeYear": 991,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-18": 0
+    }
   },
   {
     "name": "purge2.bigbang1112.cz (TMUF Purge 2)",
@@ -170,7 +172,7 @@
     "timeMonth": 704,
     "timeYear": 704,
     "dailyMinutesDown": {
-      "2025-07-18": 1223,
+      "2025-07-18": 1317,
       "2025-07-17": 1440,
       "2025-07-16": 1440,
       "2025-07-15": 1440,
