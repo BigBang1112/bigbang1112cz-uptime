@@ -5,18 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/bigbang1112.cz.ico",
     "slug": "bigbang1112-cz",
     "status": "up",
-    "uptime": "98.08%",
-    "uptimeDay": "99.56%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "98.08%",
-    "uptimeYear": "98.08%",
+    "uptime": "98.10%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "98.10%",
+    "uptimeYear": "98.10%",
     "time": 904,
     "timeDay": 1390,
     "timeWeek": 1157,
     "timeMonth": 904,
     "timeYear": 904,
     "dailyMinutesDown": {
-      "2025-07-20": 6,
       "2025-07-10": 476,
       "2025-07-07": 246
     }
@@ -47,18 +46,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/gbx.bigbang1112.cz.ico",
     "slug": "gbx-bigbang1112-cz",
     "status": "up",
-    "uptime": "98.78%",
-    "uptimeDay": "99.56%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "98.78%",
-    "uptimeYear": "98.78%",
+    "uptime": "98.80%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "98.80%",
+    "uptimeYear": "98.80%",
     "time": 1004,
     "timeDay": 783,
     "timeWeek": 960,
     "timeMonth": 1004,
     "timeYear": 1004,
     "dailyMinutesDown": {
-      "2025-07-20": 6,
       "2025-07-10": 432,
       "2025-07-07": 24
     }
@@ -69,18 +67,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/wr.bigbang1112.cz.ico",
     "slug": "wr-bigbang1112-cz",
     "status": "up",
-    "uptime": "99.79%",
-    "uptimeDay": "98.99%",
-    "uptimeWeek": "99.19%",
-    "uptimeMonth": "99.79%",
-    "uptimeYear": "99.79%",
+    "uptime": "99.82%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.34%",
+    "uptimeMonth": "99.82%",
+    "uptimeYear": "99.82%",
     "time": 1516,
     "timeDay": 6936,
     "timeWeek": 2919,
     "timeMonth": 1516,
     "timeYear": 1516,
     "dailyMinutesDown": {
-      "2025-07-20": 15,
       "2025-07-18": 67
     }
   },
@@ -110,19 +107,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/purge2.bigbang1112.cz.ico",
     "slug": "purge2-bigbang1112-cz",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1353,
     "timeDay": 1587,
     "timeWeek": 1396,
     "timeMonth": 1353,
     "timeYear": 1353,
-    "dailyMinutesDown": {
-      "2025-07-20": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "antislowmo.bigbang1112.cz (TMUF Purge 1)",
@@ -130,19 +125,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/antislowmo.bigbang1112.cz.ico",
     "slug": "antislowmo-bigbang1112-cz",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1553,
     "timeDay": 1732,
     "timeWeek": 1749,
     "timeMonth": 1553,
     "timeYear": 1553,
-    "dailyMinutesDown": {
-      "2025-07-20": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "dortmund.antislowmo.bigbang1112.cz (TMUF Purge 1, Dortmund)",
@@ -150,19 +143,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/dortmund.antislowmo.bigbang1112.cz.ico",
     "slug": "dortmund-antislowmo-bigbang1112-cz",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1349,
     "timeDay": 1550,
     "timeWeek": 1434,
     "timeMonth": 1349,
     "timeYear": 1349,
-    "dailyMinutesDown": {
-      "2025-07-20": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "winget.bigbang1112.cz",
@@ -181,7 +172,8 @@
     "timeMonth": 706,
     "timeYear": 706,
     "dailyMinutesDown": {
-      "2025-07-20": 1438,
+      "2025-07-21": 73,
+      "2025-07-20": 1440,
       "2025-07-19": 1440,
       "2025-07-18": 1440,
       "2025-07-17": 1440,
