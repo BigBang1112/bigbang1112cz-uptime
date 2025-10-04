@@ -15,6 +15,8 @@ sites:
     slug: wr-bigbang1112-cz
   - name: tmtr.bigbang1112.cz
     url: https://tmtr.bigbang1112.cz
+  - name: api.tmwrr.bigbang1112.cz
+    url: https://api.tmwrr.bigbang1112.cz
   - name: purge2.bigbang1112.cz (TMUF Purge 2)
     url: https://purge2.bigbang1112.cz
     slug: purge2-bigbang1112-cz
