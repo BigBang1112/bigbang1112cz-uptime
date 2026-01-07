@@ -4,11 +4,11 @@
     "url": "https://bigbang1112.cz",
     "icon": "https://icons.duckduckgo.com/ip3/bigbang1112.cz.ico",
     "slug": "bigbang1112-cz",
-    "status": "up",
+    "status": "down",
     "uptime": "99.71%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "99.66%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.71%",
     "time": 752,
     "timeDay": 844,
@@ -16,6 +16,7 @@
     "timeMonth": 711,
     "timeYear": 752,
     "dailyMinutesDown": {
+      "2026-01-07": 5,
       "2025-12-14": 21,
       "2025-07-25": 44,
       "2025-07-24": 19,
@@ -28,11 +29,11 @@
     "url": "https://v2.bigbang1112.cz",
     "icon": "https://icons.duckduckgo.com/ip3/v2.bigbang1112.cz.ico",
     "slug": "v2-bigbang1112-cz",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.70%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.98%",
     "time": 976,
     "timeDay": 988,
@@ -40,6 +41,7 @@
     "timeMonth": 957,
     "timeYear": 976,
     "dailyMinutesDown": {
+      "2026-01-07": 4,
       "2025-07-10": 44
     }
   },
@@ -48,11 +50,11 @@
     "url": "https://gbx.bigbang1112.cz",
     "icon": "https://icons.duckduckgo.com/ip3/gbx.bigbang1112.cz.ico",
     "slug": "gbx-bigbang1112-cz",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.73%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.83%",
     "time": 912,
     "timeDay": 663,
@@ -60,6 +62,7 @@
     "timeMonth": 835,
     "timeYear": 912,
     "dailyMinutesDown": {
+      "2026-01-07": 4,
       "2025-07-24": 19,
       "2025-07-10": 432,
       "2025-07-07": 24
@@ -70,11 +73,11 @@
     "url": "https://wr.bigbang1112.cz",
     "icon": "https://icons.duckduckgo.com/ip3/wr.bigbang1112.cz.ico",
     "slug": "wr-bigbang1112-cz",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.77%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.94%",
     "time": 963,
     "timeDay": 802,
@@ -82,6 +85,7 @@
     "timeMonth": 926,
     "timeYear": 963,
     "dailyMinutesDown": {
+      "2026-01-07": 3,
       "2025-07-25": 71,
       "2025-07-24": 19,
       "2025-07-18": 67
@@ -92,11 +96,11 @@
     "url": "https://tmtr.bigbang1112.cz",
     "icon": "https://icons.duckduckgo.com/ip3/tmtr.bigbang1112.cz.ico",
     "slug": "tmtr-bigbang1112-cz",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.81%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
     "time": 939,
     "timeDay": 927,
@@ -104,6 +108,7 @@
     "timeMonth": 944,
     "timeYear": 939,
     "dailyMinutesDown": {
+      "2026-01-07": 3,
       "2025-07-18": 18
     }
   },
@@ -112,10 +117,10 @@
     "url": "https://api.tmwrr.bigbang1112.cz",
     "icon": "https://icons.duckduckgo.com/ip3/api.tmwrr.bigbang1112.cz.ico",
     "slug": "api-tmwrr-bigbang1112-cz",
-    "status": "up",
+    "status": "down",
     "uptime": "99.76%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.85%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.82%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.76%",
     "time": 907,
@@ -124,6 +129,7 @@
     "timeMonth": 1179,
     "timeYear": 907,
     "dailyMinutesDown": {
+      "2026-01-07": 2,
       "2026-01-04": 16,
       "2025-10-04": 314
     }
@@ -133,10 +139,10 @@
     "url": "https://purge2.bigbang1112.cz",
     "icon": "https://icons.duckduckgo.com/ip3/purge2.bigbang1112.cz.ico",
     "slug": "purge2-bigbang1112-cz",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1255,
@@ -145,6 +151,7 @@
     "timeMonth": 1255,
     "timeYear": 1255,
     "dailyMinutesDown": {
+      "2026-01-07": 2,
       "2025-07-24": 19
     }
   },
@@ -153,10 +160,10 @@
     "url": "https://antislowmo.bigbang1112.cz",
     "icon": "https://icons.duckduckgo.com/ip3/antislowmo.bigbang1112.cz.ico",
     "slug": "antislowmo-bigbang1112-cz",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 1465,
@@ -165,6 +172,7 @@
     "timeMonth": 1394,
     "timeYear": 1465,
     "dailyMinutesDown": {
+      "2026-01-07": 1,
       "2025-07-24": 66
     }
   },
@@ -173,10 +181,10 @@
     "url": "https://dortmund.antislowmo.bigbang1112.cz",
     "icon": "https://icons.duckduckgo.com/ip3/dortmund.antislowmo.bigbang1112.cz.ico",
     "slug": "dortmund-antislowmo-bigbang1112-cz",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1302,
@@ -185,6 +193,7 @@
     "timeMonth": 1272,
     "timeYear": 1302,
     "dailyMinutesDown": {
+      "2026-01-07": 1,
       "2025-07-24": 19
     }
   },
@@ -205,7 +214,7 @@
     "timeMonth": 0,
     "timeYear": 686,
     "dailyMinutesDown": {
-      "2026-01-07": 69,
+      "2026-01-07": 761,
       "2026-01-06": 1440,
       "2026-01-05": 1440,
       "2026-01-04": 1440,
