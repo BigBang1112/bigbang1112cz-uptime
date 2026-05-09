@@ -26,6 +26,14 @@ sites:
     slug: dortmund-antislowmo-bigbang1112-cz
   - name: winget.bigbang1112.cz
     url: https://winget.bigbang1112.cz
+  - name: bigbang1112.eu (redirect to cz)
+    url: https://bigbang1112.eu
+    slug: bigbang1112-eu-cz
+  - name: bigbang1112.eu (NC redirect)
+    url: https://bigbang1112.eu/nc
+    slug: bigbang1112-eu-nc
+  - name: challenge.bigbang1112.eu
+    url: https://challenge.bigbang1112.eu
     
 assignees: # Users to assign downtime issues (optional)
   - BigBang1112
