@@ -92,17 +92,17 @@
     "url": "https://api.tmwrr.bigbang1112.cz",
     "icon": "https://icons.duckduckgo.com/ip3/api.tmwrr.bigbang1112.cz.ico",
     "slug": "api-tmwrr-bigbang1112-cz",
-    "status": "up",
+    "status": "down",
     "uptime": "99.69%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.69%",
-    "time": 823,
-    "timeDay": 1040,
-    "timeWeek": 765,
-    "timeMonth": 777,
-    "timeYear": 823,
+    "time": 822,
+    "timeDay": 714,
+    "timeWeek": 718,
+    "timeMonth": 765,
+    "timeYear": 822,
     "dailyMinutesDown": {
       "2025-10-04": 314,
       "2026-01-04": 16,
@@ -111,7 +111,8 @@
       "2026-04-04": 70,
       "2026-04-07": 138,
       "2026-05-14": 502,
-      "2026-07-03": 133
+      "2026-07-03": 133,
+      "2026-09-08": 1
     }
   },
   {
@@ -197,7 +198,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-08": 142,
+      "2026-09-08": 1045,
       "2026-09-07": 1440,
       "2026-09-06": 1440,
       "2026-09-05": 1440,
