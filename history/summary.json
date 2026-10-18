@@ -4,21 +4,22 @@
     "url": "https://bigbang1112.cz",
     "icon": "https://icons.duckduckgo.com/ip3/bigbang1112.cz.ico",
     "slug": "bigbang1112-cz",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 716,
-    "timeDay": 617,
-    "timeWeek": 663,
-    "timeMonth": 730,
+    "timeDay": 635,
+    "timeWeek": 662,
+    "timeMonth": 727,
     "timeYear": 692,
     "dailyMinutesDown": {
       "2025-12-14": 21,
       "2026-01-07": 27,
-      "2026-01-31": 316
+      "2026-01-31": 316,
+      "2026-10-18": 1
     }
   },
   {
@@ -198,7 +199,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-18": 144,
+      "2026-10-18": 596,
       "2026-10-17": 1440,
       "2026-10-16": 1440,
       "2026-10-15": 1440,
@@ -570,18 +571,20 @@
     "url": "https://bigbang1112.eu",
     "icon": "https://icons.duckduckgo.com/ip3/bigbang1112.eu.ico",
     "slug": "bigbang1112-eu-cz",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1214,
-    "timeDay": 1097,
-    "timeWeek": 1368,
-    "timeMonth": 1156,
-    "timeYear": 1214,
-    "dailyMinutesDown": {}
+    "time": 1213,
+    "timeDay": 1055,
+    "timeWeek": 1324,
+    "timeMonth": 1151,
+    "timeYear": 1213,
+    "dailyMinutesDown": {
+      "2026-10-18": 0
+    }
   },
   {
     "name": "bigbang1112.eu (NC redirect)",
